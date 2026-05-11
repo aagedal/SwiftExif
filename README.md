@@ -1,3 +1,6 @@
+# IMPORTANT: Project has been moved to [Codeberg](https://codeberg.org/taagedal/SwiftExif/)
+
+
 # SwiftExif
 
 A native Swift library for reading and writing image and video metadata — Exif, IPTC (IIM), XMP, C2PA, MakerNotes, and ICC profiles — with no external dependencies.
